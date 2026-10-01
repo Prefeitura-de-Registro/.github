@@ -18,5 +18,5 @@
 
 * *Front-End / PWA Mobile:* [Repositório GitHub](https://github.com/Prefeitura-de-Registro/frontend-web/tree/release/01-10)
 * *Front-End / Mobile Nativo:* [Repositório GitHub](https://github.com/Prefeitura-de-Registro/frontend-mobile/tree/release/01-10)
-* 
+  
 </details>
