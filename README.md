@@ -24,7 +24,7 @@
 <details>
 <summary><strong>14/10/2026</strong></summary>
 
-* *Front-End / PWA Mobile:* [Repositório GitHub]((https://github.com/Prefeitura-de-Registro/frontend-mobile/tree/release/14-10))
-* *Front-End / Mobile Nativo:* [Repositório GitHub]()
+* *Front-End / PWA Mobile:* [Repositório GitHub](https://github.com/Prefeitura-de-Registro/frontend-web/tree/release/14-10)
+* *Front-End / Mobile Nativo:* [Repositório GitHub](https://github.com/Prefeitura-de-Registro/frontend-mobile/tree/release/14-10)
   
 </details>
